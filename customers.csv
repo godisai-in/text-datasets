@@ -1,0 +1,7 @@
+customer_id,name,email,signup_date,tags,address.city,address.pincode
+C01,Arun,arun@example.com,2024-11-02,prime,Chennai,600001
+C02,Priya,priya@example.com,2024-12-15,,Coimbatore,641001
+C03,Karthik,karthik@example.com,2025-01-01,student,Madurai,625001
+C04,Meena,,2025-01-04,,Salem,636001
+C05,Ravi,ravi@example.com,2025-01-06,prime|student,Chennai,600020
+C06,Divya,divya@example.com,2025-01-08,,Trichy,620001
